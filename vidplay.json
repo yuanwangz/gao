@@ -41,6 +41,13 @@
       "searchable": 1
     },
     {
+      "key": "drpy_js_duoduo",
+      "name": "云盘 | 多多",
+      "protocol": "DRPY_Crack",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangz/gao/master/js/多多.js",
+      "searchable": 1
+    },
+    {
       "key": "drpy_js_小米盘[盘]",
       "name": "云盘 | 小米盘",
       "protocol": "DRPY_Crack",
@@ -157,6 +164,13 @@
       "name": "🔍 云盘 | 影搜",
       "protocol": "DRPY_Crack1",
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangz/gao/master/js/yingso.js",
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_pansou",
+      "name": "🔍 云盘 | 盘搜",
+      "protocol": "DRPY_Crack",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangz/gao/master/js/pansou.js",
       "searchable": 1
     },
     {
@@ -961,9 +975,9 @@
   "extensions": [
     "https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/DRPY.zip?v40",
     "https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/IPTV.zip?v2",
-    "https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/Alist_Ya.zip?v19",
+    "https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/Alist_Ya.zip?v20",
     "https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/APPYS.zip?v1",
     "https://file.cubeplayer.top/Alist.zip?v=5",
-    "https://file.cubeplayer.top/Alist_VOD.zip?v=9"
+    "https://file.cubeplayer.top/Alist_VOD.zip?v=10"
   ]
 }
