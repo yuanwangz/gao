@@ -970,6 +970,20 @@
       "protocol": "DRPY_Crack",
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangz/gao/master/js/360影视.js",
       "searchable": 1
+    },
+    {
+      "key": "drpy_js_lggys",
+      "name": "🎭 短剧 | 落攻阁爽剧",
+      "protocol": "DRPY_Crack",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangz/gao/master/js/落攻阁影视[V2].js",
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_baopian",
+      "name": "🎭 短剧 | 宝片短剧",
+      "protocol": "DRPY_Crack",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangz/gao/master/js/宝片[V2].js",
+      "searchable": 1
     }
   ],
   "extensions": [
