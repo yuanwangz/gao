@@ -1,6 +1,36 @@
 {
   "sites": [
     {
+      "key": "drpy_js_kuwo",
+      "name": "🎭 短剧 | 酷我短剧",
+      "type": 3,
+      "api": "csp_DRPY",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangz/gao/master/js/酷我短剧.js"
+    },
+    {
+      "key": "drpy_js_xingya",
+      "name": "🎭 短剧 | 星芽短剧",
+      "type": 3,
+      "api": "csp_DRPY",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangz/gao/master/js/星芽短剧.js"
+    },
+    {
+      "key": "drpy_js_weiguan",
+      "name": "🎭 短剧 | 围观短剧",
+      "type": 3,
+      "api": "csp_DRPY",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangz/gao/master/js/围观短剧.js"
+    },
+    {
       "key": "drpy_js_豆瓣",
       "name": "搜索 | 豆瓣",
       "protocol": "DRPY_Crack",
@@ -958,31 +988,10 @@
       "searchable": 1
     },
     {
-      "key": "drpy_js_duanju5",
-      "name": "🎭 短剧 | 短剧网",
-      "protocol": "DRPY_Crack",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangz/gao/master/js/短剧网.js",
-      "searchable": 1
-    },
-    {
       "key": "drpy_js_360",
       "name": "📺 官网 | 360影视",
       "protocol": "DRPY_Crack",
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangz/gao/master/js/360影视.js",
-      "searchable": 1
-    },
-    {
-      "key": "drpy_js_lggys",
-      "name": "🎭 短剧 | 落攻阁爽剧",
-      "protocol": "DRPY_Crack",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangz/gao/master/js/落攻阁影视[V2].js",
-      "searchable": 1
-    },
-    {
-      "key": "drpy_js_baopian",
-      "name": "🎭 短剧 | 宝片短剧",
-      "protocol": "DRPY_Crack",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangz/gao/master/js/宝片[V2].js",
       "searchable": 1
     }
   ],
